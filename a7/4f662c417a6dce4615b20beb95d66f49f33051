@@ -1,0 +1,19 @@
+README.md
+  s_87907e9a0ee4c9::t_6ec0a1af0119c5 2-34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.52-trip",
+  "base_commit_sha": "a74f662c417a6dce4615b20beb95d66f49f33051",
+  "prompts": {},
+  "sessions": {
+    "s_87907e9a0ee4c9": {
+      "agent_id": {
+        "tool": "deepseekharness",
+        "id": "session-bd3e02a7-9144-4ab4-9d88-8e51f16d72d3",
+        "model": "plan-use-kiro/auto(free)"
+      },
+      "human_author": "decadez <cong_z@trip.com>"
+    }
+  }
+}
